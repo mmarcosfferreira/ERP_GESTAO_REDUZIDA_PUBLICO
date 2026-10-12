@@ -10,12 +10,6 @@ config.json
 secrets.json
 
 # Auto-protecao ERP — grandes/sensiveis
-avcodec-62.dll
-avdevice-62.dll
-avfilter-11.dll
-avformat-62.dll
-ffplay.exe
-yt-dlp.exe
 data/github_tokens.json
 data/data/ai_config.json
 data/data/config.json
